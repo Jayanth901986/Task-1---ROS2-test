@@ -1,0 +1,37 @@
+[1.064s] Invoking command in '/home/jayanth/ros21_ws/src/image_conversion': PYTHONPATH=/home/jayanth/ros21_ws/build/image_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_conversion build --build-base /home/jayanth/ros21_ws/build/image_conversion/build install --record /home/jayanth/ros21_ws/build/image_conversion/install.log --single-version-externally-managed install_data
+[1.349s] running egg_info
+[1.349s] creating ../../build/image_conversion/image_conversion.egg-info
+[1.349s] writing ../../build/image_conversion/image_conversion.egg-info/PKG-INFO
+[1.350s] writing dependency_links to ../../build/image_conversion/image_conversion.egg-info/dependency_links.txt
+[1.350s] writing entry points to ../../build/image_conversion/image_conversion.egg-info/entry_points.txt
+[1.350s] writing requirements to ../../build/image_conversion/image_conversion.egg-info/requires.txt
+[1.350s] writing top-level names to ../../build/image_conversion/image_conversion.egg-info/top_level.txt
+[1.351s] writing manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+[1.353s] reading manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+[1.355s] writing manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+[1.355s] running build
+[1.355s] running build_py
+[1.355s] creating /home/jayanth/ros21_ws/build/image_conversion/build
+[1.355s] creating /home/jayanth/ros21_ws/build/image_conversion/build/lib
+[1.356s] creating /home/jayanth/ros21_ws/build/image_conversion/build/lib/image_conversion
+[1.356s] copying image_conversion/__init__.py -> /home/jayanth/ros21_ws/build/image_conversion/build/lib/image_conversion
+[1.356s] copying image_conversion/image_conversion.py -> /home/jayanth/ros21_ws/build/image_conversion/build/lib/image_conversion
+[1.357s] running install
+[1.357s] running install_lib
+[1.358s] creating /home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages/image_conversion
+[1.358s] copying /home/jayanth/ros21_ws/build/image_conversion/build/lib/image_conversion/__init__.py -> /home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages/image_conversion
+[1.359s] copying /home/jayanth/ros21_ws/build/image_conversion/build/lib/image_conversion/image_conversion.py -> /home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages/image_conversion
+[1.359s] byte-compiling /home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages/image_conversion/__init__.py to __init__.cpython-310.pyc
+[1.360s] byte-compiling /home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages/image_conversion/image_conversion.py to image_conversion.cpython-310.pyc
+[1.361s] running install_data
+[1.361s] creating /home/jayanth/ros21_ws/install/image_conversion/share/ament_index
+[1.361s] creating /home/jayanth/ros21_ws/install/image_conversion/share/ament_index/resource_index
+[1.361s] creating /home/jayanth/ros21_ws/install/image_conversion/share/ament_index/resource_index/packages
+[1.362s] copying resource/image_conversion -> /home/jayanth/ros21_ws/install/image_conversion/share/ament_index/resource_index/packages
+[1.362s] copying package.xml -> /home/jayanth/ros21_ws/install/image_conversion/share/image_conversion
+[1.362s] running install_egg_info
+[1.363s] Copying ../../build/image_conversion/image_conversion.egg-info to /home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages/image_conversion-0.0.0-py3.10.egg-info
+[1.364s] running install_scripts
+[1.387s] Installing image_conversion script to /home/jayanth/ros21_ws/install/image_conversion/lib/image_conversion
+[1.387s] writing list of installed files to '/home/jayanth/ros21_ws/build/image_conversion/install.log'
+[1.446s] Invoked command in '/home/jayanth/ros21_ws/src/image_conversion' returned '0': PYTHONPATH=/home/jayanth/ros21_ws/build/image_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jayanth/ros21_ws/install/image_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_conversion build --build-base /home/jayanth/ros21_ws/build/image_conversion/build install --record /home/jayanth/ros21_ws/build/image_conversion/install.log --single-version-externally-managed install_data

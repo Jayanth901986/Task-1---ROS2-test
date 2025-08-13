@@ -1,0 +1,24 @@
+[1.328s] Invoking command in '/home/jayanth/ros21_ws/src/dummy_usb_cam': PYTHONPATH=/home/jayanth/ros21_ws/build/dummy_usb_cam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jayanth/ros21_ws/install/dummy_usb_cam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dummy_usb_cam build --build-base /home/jayanth/ros21_ws/build/dummy_usb_cam/build install --record /home/jayanth/ros21_ws/build/dummy_usb_cam/install.log --single-version-externally-managed install_data
+[1.700s] running egg_info
+[1.701s] writing ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/PKG-INFO
+[1.704s] writing dependency_links to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/dependency_links.txt
+[1.706s] writing entry points to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/entry_points.txt
+[1.707s] writing requirements to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/requires.txt
+[1.708s] writing top-level names to ../../build/dummy_usb_cam/dummy_usb_cam.egg-info/top_level.txt
+[1.708s] reading manifest file '../../build/dummy_usb_cam/dummy_usb_cam.egg-info/SOURCES.txt'
+[1.709s] writing manifest file '../../build/dummy_usb_cam/dummy_usb_cam.egg-info/SOURCES.txt'
+[1.709s] running build
+[1.710s] running build_py
+[1.710s] copying dummy_usb_cam/dummy_usb_cam.py -> /home/jayanth/ros21_ws/build/dummy_usb_cam/build/lib/dummy_usb_cam
+[1.710s] running install
+[1.711s] running install_lib
+[1.712s] copying /home/jayanth/ros21_ws/build/dummy_usb_cam/build/lib/dummy_usb_cam/dummy_usb_cam.py -> /home/jayanth/ros21_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam
+[1.713s] byte-compiling /home/jayanth/ros21_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam/dummy_usb_cam.py to dummy_usb_cam.cpython-310.pyc
+[1.715s] running install_data
+[1.715s] running install_egg_info
+[1.722s] removing '/home/jayanth/ros21_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam-0.0.0-py3.10.egg-info' (and everything under it)
+[1.722s] Copying ../../build/dummy_usb_cam/dummy_usb_cam.egg-info to /home/jayanth/ros21_ws/install/dummy_usb_cam/lib/python3.10/site-packages/dummy_usb_cam-0.0.0-py3.10.egg-info
+[1.724s] running install_scripts
+[1.754s] Installing dummy_usb_cam script to /home/jayanth/ros21_ws/install/dummy_usb_cam/lib/dummy_usb_cam
+[1.754s] writing list of installed files to '/home/jayanth/ros21_ws/build/dummy_usb_cam/install.log'
+[1.794s] Invoked command in '/home/jayanth/ros21_ws/src/dummy_usb_cam' returned '0': PYTHONPATH=/home/jayanth/ros21_ws/build/dummy_usb_cam/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jayanth/ros21_ws/install/dummy_usb_cam/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/dummy_usb_cam build --build-base /home/jayanth/ros21_ws/build/dummy_usb_cam/build install --record /home/jayanth/ros21_ws/build/dummy_usb_cam/install.log --single-version-externally-managed install_data

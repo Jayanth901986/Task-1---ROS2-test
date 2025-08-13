@@ -1,0 +1,3 @@
+[console_scripts]
+dummy_usb_cam = dummy_usb_cam.dummy_usb_cam:main
+

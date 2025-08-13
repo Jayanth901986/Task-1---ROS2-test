@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: image-conversion
+Version: 0.0.0
+Summary: ROS2 node for converting camera images to grayscale or color
+Home-page: UNKNOWN
+Maintainer: jayanth
+Maintainer-email: jk0721585@gmail.com
+License: Apache-2.0
+Platform: UNKNOWN
+
+UNKNOWN
+
